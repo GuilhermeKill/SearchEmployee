@@ -20,3 +20,5 @@ Certifique-se de instalar o PyInstaller no seu ambiente de desenvolvimento. Para
 
 ```bash
 pip install pyinstaller
+
+pyinstaller --onefile nome_do_seu_script.py
